@@ -1,0 +1,12 @@
+Drew French
+
+1)	strcat(str1, str2); adds str2 to str1 and removes str1's \0.
+
+2)	1?
+
+3)	Use a for loop to give each value of an array of size 8 another array of size 8, totaling 64.
+
+4)	strcmp(str1, str2) - returns 0 if the same, positive if str2 is 1st in lexographical order, negative if str1 is 1st in lexographical order.
+	fgets(str, sizeof(str), stdin) - allows the user to input a string; ends in \n.
+	strcat(str1, str2) - adds str2 to the end of str1 and removes str1's \0.
+	strlen(str) - returns the length of a string, not counting the \0.
